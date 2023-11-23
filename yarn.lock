@@ -2864,10 +2864,10 @@
   dependencies:
     classnames "*"
 
-"@types/commonmark@0.27.5":
-  version "0.27.5"
-  resolved "https://registry.yarnpkg.com/@types/commonmark/-/commonmark-0.27.5.tgz#008f2e8fb845c906146aa97510d66953d916aed2"
-  integrity sha512-vIqgmHyLsc8Or3EWLz6QkhI8/v61FNeH0yxRupA7VqSbA2eFMoHHJAhZSHudplAV89wqg1CKSmShE016ziRXuw==
+"@types/commonmark@0.27.9":
+  version "0.27.9"
+  resolved "https://registry.yarnpkg.com/@types/commonmark/-/commonmark-0.27.9.tgz#2d2d42e72127c84525fbbc87aaefb5a43e1129d7"
+  integrity sha512-d3+57WgyPCcIc6oshmcPkmP4+JqRRot9eeZLsBsutWtIxwWivpoyc2wEcolOp8MyO3ZWN846mMdoR02kdHSMCw==
 
 "@types/compression@1.7.5":
   version "1.7.5"
