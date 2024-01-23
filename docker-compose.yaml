@@ -14,6 +14,8 @@ services:
     command: mysqld --sql_mode="STRICT_TRANS_TABLES,NO_ZERO_IN_DATE,NO_ZERO_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION"
     ports:
       - 3306:3306
+    volumes:
+      - db-data:/var/lib/mysql
   redis:
     image: redis:alpine
     container_name: redis
@@ -38,6 +40,8 @@ services:
         '-backend',
         'filesystem',
       ]
+    volumes:
+      - storage-data:/data
   bundler:
     build:
       context: ./bundler
@@ -48,7 +52,7 @@ services:
       - redis
       - storage
     volumes:
-      - ./bundler:/home/node/code
+      - bundler-data:/home/node/code
     networks:
       - voice-web
     ports:
@@ -64,7 +68,7 @@ services:
       - redis
       - storage
     volumes:
-      - .:/code
+      - web-data:/code
     environment:
       - DOTENV_CONFIG_PATH=/code/.env-local-docker
     networks:
@@ -75,3 +79,29 @@ services:
 
 networks:
   voice-web:
+
+volumes:
+  web-data:
+    driver: local # Define the driver and options under the volume name
+    driver_opts:
+      type: none
+      device: ../voice.swecha.org-data/web_data
+      o: bind
+  storage-data:
+    driver: local # Define the driver and options under the volume name
+    driver_opts:
+      type: none
+      device: ../voice.swecha.org-data/storage_data
+      o: bind
+  bundler-data:
+    driver: local # Define the driver and options under the volume name
+    driver_opts:
+      type: none
+      device: ./bundler
+      o: bind
+  db-data:
+    driver: local # Define the driver and options under the volume name
+    driver_opts:
+      type: none
+      device: ../voice.swecha.org-data/db_data
+      o: bind
