@@ -78,9 +78,9 @@ if (DOMAIN) {
       callbackURL:
         ((
           {
-            stage: 'https://commonvoice.allizom.org',
-            prod: 'https://commonvoice.mozilla.org',
-            dev: 'https://dev.voice.mozit.cloud',
+            // stage: 'https://gonthuka3.swecha.org',
+            prod: 'https://gonthuka3.swecha.org',
+            // dev: 'https://dev.voice.mozit.cloud',
             sandbox: 'https://sandbox.commonvoice.allizom.org',
           } as any
         )[ENVIRONMENT] || '') + CALLBACK_URL,
