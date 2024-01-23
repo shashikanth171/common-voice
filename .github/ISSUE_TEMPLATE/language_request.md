@@ -8,7 +8,7 @@ assignees: 'Heyhillary'
 
 # Welcome to the Common Voice Community !
 
-> Common Voice aims to make speech technology accessible to everyone by building an open sourced dataset of labelled voice data that is representative of languages, variants and accents spoken across the world. This template helps us to know how your language could participate in the Common Voice Project. There are three sections of this form, once you have filled out a section please click the checkbox. If you have any issues please contact <commonvoice@mozilla.org>.
+> Common Voice aims to make speech technology accessible to everyone by building an open sourced dataset of labelled voice data that is representative of languages, variants and accents spoken across the world. This template helps us to know how your language could participate in the Common Voice Project. There are three sections of this form, once you have filled out a section please click the checkbox. If you have any issues please contact <gonthuka3.swecha.org>.
 
 ## Pontoon Set-up
 

@@ -67,7 +67,7 @@ const HowAddLanguage = React.memo(({ getFragment }: { getFragment: any }) => (
       id="about-playbook-how-add-language-collecting-sentences-content-2"
       elems={{
         sentenceCollectorLinkAdd: (
-          <a href="https://commonvoice.mozilla.org/sentence-collector/#/add" />
+          <a href="https://gonthuka3.swecha.org/sentence-collector/#/add" />
         ),
         bulkImportDocsLink: (
           <a href="https://common-voice.github.io/community-playbook/sub_pages/text.html" />

@@ -27,6 +27,6 @@ As more people contribute to a language, more sentences are needed. Please refer
 
 ## Status
 
-To see the current progress of a language, please refer to the [language stats](https://commonvoice.mozilla.org/en/languages) page on the website.
+To see the current progress of a language, please refer to the [language stats](https://gonthuka3.swecha.org/en/languages) page on the website.
 
 For more information about the language lifecycle, refer to [this Discourse post](https://discourse.mozilla.org/t/readme-how-to-see-my-language-on-common-voice/31530/1)

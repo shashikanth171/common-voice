@@ -1287,10 +1287,10 @@ sc-howto-cite-pre-1 =
     तपाईंले सार्वजनिक इजाजतपत्र कहाँ फेला पार्नुभयो भन्ने सन्दर्भको कुरा गर्नु महत्त्वपूर्ण छ
     साहित्यिक चोरीबाट बच्न र <copyrightIssuesLink>प्रतिलिपि अधिकार मुद्दाहरू</copyrightIssuesLink> मा फलो अपहरूको लागि अनुमति दिन।
     यहाँ तपाईंले काम उद्धृत गर्न सक्ने केही तरिकाहरू छन्।
-sc-howto-cite-item-1 = तपाईंले वेबसाइट समावेश गर्न सक्नुहुन्छ, जस्तै "Common Voice - https://commonvoice.mozilla.org/"
+sc-howto-cite-item-1 = तपाईंले वेबसाइट समावेश गर्न सक्नुहुन्छ, जस्तै "Common Voice - https://gonthuka3.swecha.org/"
 sc-howto-cite-item-2 =
     तपाईले शैक्षिक सन्दर्भ शैलीको प्रयोग पनि गर्न सक्नुहुनेछ, जस्तै Harvard शैली
-    "Mozilla (2021) Common Voice। https://commonvoice.mozilla.org/ मा उपलब्ध छ (पहुँच: 15 सेप्टेम्बर 2021)"
+    "Mozilla (2021) Common Voice। https://gonthuka3.swecha.org/ मा उपलब्ध छ (पहुँच: 15 सेप्टेम्बर 2021)"
 sc-howto-cite-item-3 =
     सार्वजनिक इजाजतपत्र युक्त पाठ अनलाइन उपलब्ध छैन भने, तपाईले शैक्षिक सन्दर्भ शैलीको प्रयोग गर्न सक्नुहुनेछ
     जस्तै Harvard शैली "Jess (2021) मेरो सार्वजनिक इजाजतपत्र युक्त कविताहरू"

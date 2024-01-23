@@ -7,7 +7,7 @@
     "tests": "https://github.com/mozilla/common-voice/actions"
   },
   "participate": {
-    "home": "https://commonvoice.mozilla.org",
+    "home": "https://gonthuka3.swecha.org",
     "docs": "https://github.com/mozilla/common-voice/blob/main/CONTRIBUTING.md",
     "forum": "https://discourse.mozilla.org/c/voice",
     "matrix": "https://chat.mozilla.org/#/room/#common-voice:mozilla.org"
@@ -17,7 +17,7 @@
     "report": "https://github.com/mozilla/common-voice/issues/new"
   },
   "urls": {
-    "prod": "https://commonvoice.mozilla.org",
+    "prod": "https://gonthuka3.swecha.org",
     "stage": "https://commonvoice.allizom.org"
   },
   "keywords": [

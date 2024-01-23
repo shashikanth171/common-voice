@@ -1329,10 +1329,10 @@ sc-howto-cite-pre-1 =
     Es ist wichtig, dass Sie angeben, wo Sie die öffentliche Lizenz gefunden haben
     um Plagiate zu vermeiden und Folgemaßnahmen zu <copyrightIssuesLink>Urheberrechtsproblemen</copyrightIssuesLink> zu ermöglichen.
     Hier sind einige Möglichkeiten, wie Sie die Arbeit zitieren können.
-sc-howto-cite-item-1 = Sie könnten die Website angeben, z.&thinsp;B. „Common Voice – https://commonvoice.mozilla.org/“
+sc-howto-cite-item-1 = Sie könnten die Website angeben, z.&thinsp;B. „Common Voice – https://gonthuka3.swecha.org/“
 sc-howto-cite-item-2 =
     Sie könnten den akademischen Zitierstil verwenden, z.B. den Harvard-Style
-    „Mozilla (2021) Common Voice. Abrufbar unter https://commonvoice.mozilla.org/ (Zugriff: 15. September 2021)“
+    „Mozilla (2021) Common Voice. Abrufbar unter https://gonthuka3.swecha.org/ (Zugriff: 15. September 2021)“
 sc-howto-cite-item-3 =
     Für Texte unter öffentlicher Lizenz, die nicht online verfügbar sind, können Sie den akademischen Zitierstil verwenden
     z.&thinsp;B. Hardvard-Style „Jess (2021) Meine gemeinfreien Gedichte“
@@ -1734,11 +1734,11 @@ public-domain-explanation-5 = Suchen Sie nach Texten, für die das Urheberrecht 
 public-domain-explanation-6 = Wenden Sie sich an Regierungen, gemeinnützige Unternehmen oder Medienorganisationen, um zu erfahren, ob deren Webinhalte, Berichte oder andere Inhalte gemeinfrei sein können
 citing-sentences-explanation-1 = Es ist wichtig, Zitate einzufügen, damit wir überprüfen können, ob Sätze gemeinfrei sind und keine urheberrechtliche Einschränkung besteht.
 citing-sentences-subheader-websites = Websites
-citing-sentences-subheader-websites-explanation = Sie könnten die Website angeben, z.&thinsp;B. „Common Voice – https://commonvoice.mozilla.org/“
+citing-sentences-subheader-websites-explanation = Sie könnten die Website angeben, z.&thinsp;B. „Common Voice – https://gonthuka3.swecha.org/“
 citing-sentences-subheader-academic-reference = Akademische Zitierweise
 citing-sentences-subheader-academic-reference-explanation =
     Sie könnten den akademischen Zitierstil verwenden, z.B. den Harvard-Style
-    „Mozilla (2021) Common Voice. Abrufbar unter https://commonvoice.mozilla.org/ (Zugriff: 15. September 2021)“
+    „Mozilla (2021) Common Voice. Abrufbar unter https://gonthuka3.swecha.org/ (Zugriff: 15. September 2021)“
 citing-sentences-subheader-offline-sources = Offline-Quellen
 citing-sentences-subheader-offline-sources-explanation =
     Für gemeinfreie Texte, die nicht online verfügbar sind, können Sie den akademischen Zitierstil verwenden

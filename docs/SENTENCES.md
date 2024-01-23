@@ -4,7 +4,7 @@ As Common Voice is a read dataset, sentences are our currency. You can help by a
 
 ## In a few words
 
-📝 [Sentence Collector](https://commonvoice.mozilla.org/write) is the sentence writing part of the Common Voice website. For others to be able to record their voices the Common Voice project needs sentences to be read. This is a good place to start for newcomers to this project.
+📝 [Sentence Collector](https://gonthuka3.swecha.org/write) is the sentence writing part of the Common Voice website. For others to be able to record their voices the Common Voice project needs sentences to be read. This is a good place to start for newcomers to this project.
 
 📘 Contributors who want to [bulk upload](https://en.wikipedia.org/wiki/Bulk_insert) sentences, like for books, should check out the [Bulk Submission](https://github.com/common-voice/common-voice/blob/main/docs/submitting-bulk-sentences.md) guidelines.
 
@@ -12,7 +12,7 @@ As Common Voice is a read dataset, sentences are our currency. You can help by a
 
 ## Sentence Collector
 
-The [Sentence Collector](https://commonvoice.mozilla.org/write) is the "write" section of Common Voice. You can either:
+The [Sentence Collector](https://gonthuka3.swecha.org/write) is the "write" section of Common Voice. You can either:
 
 - Add sentences for your language
 - Validate sentences that other contributors have added

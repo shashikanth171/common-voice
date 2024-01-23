@@ -33,7 +33,7 @@ const config: Config = {
     },
     clipsBucketName: process.env.CLIPS_BUCKET_NAME || 'common-voice-clips' ,
     datasetBundlerBucketName: process.env.DATASETS_BUNDLER_BUCKET_NAME || 'common-voice-bundler',
-    storageLocalEndpoint: process.env.STORAGE_LOCAL_DEVELOPMENT_ENDPOINT || 'http://storage:8080',
+    storageLocalEndpoint: process.env.STORAGE_LOCAL_DEVELOPMENT_ENDPOINT || 'http://gonthuka3.swecha.org:8092',
 }
 
 const getStorageLocalEndpoint_ = (config: Config): IO.IO<string> => () => config.storageLocalEndpoint

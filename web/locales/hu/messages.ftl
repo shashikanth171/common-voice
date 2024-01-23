@@ -1300,10 +1300,10 @@ sc-howto-cite-pre-1 =
     Fontos, hogy hivatkozzon arra, hogy hol találta a nyilvános licencet,
     hogy elkerüljük a plágiumot, és hogy követhetők legyenek a <copyrightIssuesLink>szerzői jogi problémák</copyrightIssuesLink>.
     Itt van pár módja annak, hogy idézze a művet.
-sc-howto-cite-item-1 = Felveheti a weboldalt, például „Common Voice – https://commonvoice.mozilla.org/”
+sc-howto-cite-item-1 = Felveheti a weboldalt, például „Common Voice – https://gonthuka3.swecha.org/”
 sc-howto-cite-item-2 =
     Használhat akadémiai hivatkozási stílust, például a harvard stílust:
-    „Mozilla (2021) Common Voice. Available at https://commonvoice.mozilla.org/ (Accessed: 15th September 2021)”
+    „Mozilla (2021) Common Voice. Available at https://gonthuka3.swecha.org/ (Accessed: 15th September 2021)”
 sc-howto-cite-item-3 =
     Ha az interneten nem érhető el a licenc szövege, akkor használhatja az akadémiai hivatkozási stílust:
     például harvard stílussal: „Jess (2021) Saját nyilvános licencű költeményeim”
@@ -1672,11 +1672,11 @@ public-domain-explanation-5 = Keressen olyan szövegeket, amelyekre a szerzői j
 public-domain-explanation-6 = Lépjen kapcsolatba kormányzatokkal, nonprofit vagy médiaszervezetekkel, és kérdezzen rá, hogy a webes tartalmuk, jelentéseik vagy más tartalmuk felajánlható-e közkincsként
 citing-sentences-explanation-1 = Fontos, hogy használja az idézeteket, mert így ellenőrizhetjük, hogy a mondatok közkincsek-e, és hogy nem vonatkozik-e rájuk szerzői jogi korlátozás.
 citing-sentences-subheader-websites = Webhelyek
-citing-sentences-subheader-websites-explanation = Felveheti a weboldalt, például „Common Voice – https://commonvoice.mozilla.org/”
+citing-sentences-subheader-websites-explanation = Felveheti a weboldalt, például „Common Voice – https://gonthuka3.swecha.org/”
 citing-sentences-subheader-academic-reference = Akadémiai hivatkozás
 citing-sentences-subheader-academic-reference-explanation =
     Használhat akadémiai hivatkozási stílust, például a Harvard-stílust:
-    „Mozilla (2021) Common Voice. Available at https://commonvoice.mozilla.org/ (Accessed: 15th September 2021)”
+    „Mozilla (2021) Common Voice. Available at https://gonthuka3.swecha.org/ (Accessed: 15th September 2021)”
 citing-sentences-subheader-offline-sources = Offline források
 citing-sentences-subheader-offline-sources-explanation = Az interneten nem elérhető közkincsű szövegek esetén használhatja az akadémiai hivatkozási stílust, például a Harvard-stílust: „Jess (2021) Saját nyilvános licencű költeményeim”
 citation =

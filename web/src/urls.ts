@@ -34,7 +34,7 @@ export default Object.freeze({
   CHALLENGE_TERMS: '/challenge-terms',
   ABOUT: '/about',
   CRITERIA: '/criteria',
-  PARTNER: '/partner',ks
+  PARTNER: '/partner',
   GUIDELINES: '/guidelines',
   SENTENCE_COLLECTOR_REDIRECT: '/sentence-collector-redirect',
 
@@ -54,10 +54,10 @@ export default Object.freeze({
     'https://discourse.mozilla.org/t/ayuda-a-crear-el-primer-objetivo-segmentado-de-common-voice/60472/',
 
   HTTP_ROOT: 'https://gonthuka3.swecha.org',
-  // STAGING_ROOT: 'https://commonvoice.allizom.org',
+  STAGING_ROOT: 'https://gonthuka3.swecha.org',
   GITHUB_ROOT: 'https://github.com/mozilla/common-voice',
   MOZILLA_BLOG_ROOT: 'http://foundation.mozilla.org/blog',
   S3_BUCKET:
     'https://gonthuka-clips.s3.ap-south-1.amazonaws.com',
-  S3_CDN: 'https://cdn.commonvoice.mozilla.org',
+  S3_CDN: 'https://cdn.gonthuka3.swecha.org',
 })

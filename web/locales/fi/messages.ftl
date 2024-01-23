@@ -1028,7 +1028,7 @@ sc-home-review-title = Tarkista lauseet
 
 sc-howto-addlang-text = Kun olet kirjautunut sisään, voit valita kielesi profiiliosiosta.
 sc-howto-addsen-title = Lisää uusia lauseita
-sc-howto-cite-item-1 = Voit sisällyttää mukaan verkkosivuston, esim. "Common Voice - https://commonvoice.mozilla.org/"
+sc-howto-cite-item-1 = Voit sisällyttää mukaan verkkosivuston, esim. "Common Voice - https://gonthuka3.swecha.org/"
 sc-howto-review-subtitle = Varmista, että lause täyttää seuraavat kriteerit:
 sc-howto-review-criteria-2 = Lauseen tulee olla kieliopillisesti oikein.
 sc-howto-review-criteria-3 = Lauseen on oltava lausuttavissa ääneen.

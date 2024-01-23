@@ -12,14 +12,14 @@ const HowAddSentences = React.memo(() => {
           strong,
           writePageLink: (
             <a
-              href="https://commonvoice.mozilla.org/write"
+              href="https://gonthuka3.swecha.org/write"
               target="_blank"
               rel="noopener noreferrer"
             />
           ),
           reviewPageLink: (
             <a
-              href="https://commonvoice.mozilla.org/review"
+              href="https://gonthuka3.swecha.org/review"
               target="_blank"
               rel="noopener noreferrer"
             />
@@ -32,7 +32,7 @@ const HowAddSentences = React.memo(() => {
         elems={{
           languageGuidelinesLink: (
             <a
-              href="https://commonvoice.mozilla.org/sentence-collector/#/en/how-to"
+              href="https://gonthuka3.swecha.org/sentence-collector/#/en/how-to"
               target="_blank"
               rel="noopener noreferrer"
             />

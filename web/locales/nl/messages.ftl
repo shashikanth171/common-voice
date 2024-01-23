@@ -1328,10 +1328,10 @@ sc-howto-cite-pre-1 =
     Het is belangrijk dat u vermeldt waar u de openbare licentie hebt gevonden
     om plagiaat te voorkomen en om opvolging van <copyrightIssuesLink>auteursrechtproblemen</copyrightIssuesLink> mogelijk te maken.
     Hier zijn een paar manieren waarop u het werk kunt citeren.
-sc-howto-cite-item-1 = U kunt de website opnemen, bijvoorbeeld ‘Common Voice - https://commonvoice.mozilla.org/’
+sc-howto-cite-item-1 = U kunt de website opnemen, bijvoorbeeld ‘Common Voice - https://gonthuka3.swecha.org/’
 sc-howto-cite-item-2 =
     U kunt een academische referentiestijl gebruiken, bijvoorbeeld Harvard-stijl
-    ‘Mozilla (2021) Common Voice. Beschikbaar op https://commonvoice.mozilla.org/ (Benaderd: 15 september 2021)’
+    ‘Mozilla (2021) Common Voice. Beschikbaar op https://gonthuka3.swecha.org/ (Benaderd: 15 september 2021)’
 sc-howto-cite-item-3 =
     Voor openbare licentietekst die niet online beschikbaar is, kunt u de academische referentiestijl gebruiken,
     b.v. Harvard-stijl ‘Jess (2021) Mijn openbare licentiegedichten’
@@ -1735,11 +1735,11 @@ public-domain-explanation-5 = Zoek naar tekst waarop het auteursrecht niet meer 
 public-domain-explanation-6 = Neem contact op met overheden, nonprofitorganisaties of mediaorganisaties om te zien of hun webinhoud, rapporten of andere inhoud kan worden toegewezen aan het publieke domein
 citing-sentences-explanation-1 = Het is belangrijk om bronvermeldingen op te nemen, zodat we kunnen controleren of zinnen zich in het publieke domein bevinden en er geen auteursrechtbeperkingen van toepassing zijn.
 citing-sentences-subheader-websites = Websites
-citing-sentences-subheader-websites-explanation = U kunt de website opnemen, bijvoorbeeld ‘Common Voice - https://commonvoice.mozilla.org/’
+citing-sentences-subheader-websites-explanation = U kunt de website opnemen, bijvoorbeeld ‘Common Voice - https://gonthuka3.swecha.org/’
 citing-sentences-subheader-academic-reference = Academische referentie
 citing-sentences-subheader-academic-reference-explanation =
     U kunt een academische referentiestijl gebruiken, bijvoorbeeld Harvard-stijl
-    ‘Mozilla (2021) Common Voice. Beschikbaar op https://commonvoice.mozilla.org/ (Benaderd: 15 september 2021)’
+    ‘Mozilla (2021) Common Voice. Beschikbaar op https://gonthuka3.swecha.org/ (Benaderd: 15 september 2021)’
 citing-sentences-subheader-offline-sources = Offline bronnen
 citing-sentences-subheader-offline-sources-explanation =
     Voor publiek-domeintekst die niet online beschikbaar is, kunt u de academische referentiestijl gebruiken,

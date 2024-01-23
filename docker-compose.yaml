@@ -32,16 +32,16 @@ services:
     command:
       [
         '-scheme',
-        'http',
+         'http',
         '-port',
         '8080',
         '-external-url',
-        'http://storage:8080',
+        'https://gonthuka3.swecha.org:8092',
         '-backend',
         'filesystem',
       ]
     volumes:
-      - storage-data:/data
+      - storage-data:/storage
   bundler:
     build:
       context: ./bundler
@@ -75,7 +75,7 @@ services:
       - voice-web
     ports:
       - 9000:9000
-    command: bash -c "/code/docker/wait-for-it.sh storage:8080 -- /code/docker/prepare_storage.sh && yarn && yarn start"
+    command: bash -c "/code/docker/wait-for-it.sh https://gonthuka3.swecha.org:8092 -- /code/docker/prepare_storage.sh && yarn && yarn start"
 
 networks:
   voice-web:
@@ -85,13 +85,13 @@ volumes:
     driver: local # Define the driver and options under the volume name
     driver_opts:
       type: none
-      device: ../voice.swecha.org-data/web_data
+      device: ./../voice.swecha.org-data/web-data
       o: bind
   storage-data:
     driver: local # Define the driver and options under the volume name
     driver_opts:
       type: none
-      device: ../voice.swecha.org-data/storage_data
+      device: ../voice.swecha.org-data/storage-data
       o: bind
   bundler-data:
     driver: local # Define the driver and options under the volume name
@@ -103,5 +103,5 @@ volumes:
     driver: local # Define the driver and options under the volume name
     driver_opts:
       type: none
-      device: ../voice.swecha.org-data/db_data
+      device: ../voice.swecha.org-data/db-data
       o: bind

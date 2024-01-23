@@ -1296,8 +1296,8 @@ sc-howto-addsen-item-6 = ژبې کولی شي د اضافي اړتیاو سره 
 sc-howto-addsen-post-1 = موږ طبیعي / خبرو اترو ته ترجیح ورکوو. پداسې حال کې چې په جملو کې د فونیټیک تنوع او مختلف ټکي مهم دي، موږ هڅه کوو چې د جملې ثبت کول څومره چې ممکنه وي تفریح ​​کړو. له همدې امله دا به ښه وي که تاسو هڅه وکړئ  چې خپلې جملې د امکان تر حده طبیعي / ښکیلونکی وساتئ.
 sc-howto-cite-title = د نقل کولو څرنګوالی
 sc-howto-cite-pre-1 = دا مهمه ده چې تاسو هغه ځای ته مراجعه وکړئ چې تاسو عامه جواز موندلی ترڅو د ادبي غلا مخه ونیسي او د <copyrightIssuesLink>د کاپي حق مسلو</copyrightIssuesLink> تعقیبولو ته اجازه ورکړي. دلته یو څو لارې شتون لري چې تاسو کولی شئ د کار حواله وکړئ.
-sc-howto-cite-item-1 = تاسو کولی شئ ویب پاڼه شامله کړئ، د مثال په توګه "عام غږ - https://commonvoice.mozilla.org/"
-sc-howto-cite-item-2 = تاسو کولی شئ د اکاډمیک حواله کولو سټایل وکاروئ ، د مثال په توګه د هارورډ سټایل "موزیلا (2021) عام غږ. په https://commonvoice.mozilla.org/ کې شتون لري (لاسرسی: 15 سپتمبر 2021)"
+sc-howto-cite-item-1 = تاسو کولی شئ ویب پاڼه شامله کړئ، د مثال په توګه "عام غږ - https://gonthuka3.swecha.org/"
+sc-howto-cite-item-2 = تاسو کولی شئ د اکاډمیک حواله کولو سټایل وکاروئ ، د مثال په توګه د هارورډ سټایل "موزیلا (2021) عام غږ. په https://gonthuka3.swecha.org/ کې شتون لري (لاسرسی: 15 سپتمبر 2021)"
 sc-howto-cite-item-3 = د عامه ډومین متن لپاره چې آنلاین شتون نلري، تاسو کولی شئ د اکاډمیک حواله کولو سټایل وکاروئ لکه د هارورډ سټایل "جیس (2021) زما عامه جواز شعرونه"
 sc-howto-review-title = جملو ته بیا کتنه وکړئ
 sc-howto-review-subtitle = ډاډ ترلاسه کړئ چې جمله لاندې معیارونه پوره کوي:
@@ -1624,7 +1624,7 @@ misreadings-tip-2 = [په اصلي متن کې 'a' نه دی]
 misreadings-tip-3 = [مطابقت نه  لرونکې منځپانګه]
 background-noise-example-1 = د ټریاسیک لوی ډیناسور.
 background-noise-tip-2 = [د متن یوه برخه اوریدل کیدی نشي]
-citing-sentences-subheader-websites-explanation = تاسو کولی شئ ویب پاڼه شامله کړئ، د مثال په توګه "عام غږ - https://commonvoice.mozilla.org/"
+citing-sentences-subheader-websites-explanation = تاسو کولی شئ ویب پاڼه شامله کړئ، د مثال په توګه "عام غږ - https://gonthuka3.swecha.org/"
 adding-sentences-subheader-offensive-content = توهين کوونکې منځپانګه
 
 ## REVIEW PAGE

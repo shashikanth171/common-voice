@@ -1312,10 +1312,10 @@ sc-howto-cite-pre-1 =
     Điều quan trọng là bạn phải tham khảo nơi bạn tìm thấy giấy phép công cộng
     để tránh đạo văn và cho phép theo dõi các <copyrightIssuesLink>vấn đề về bản quyền</copyrightIssuesLink>.
     Dưới đây là một số cách bạn có thể trích dẫn tác phẩm.
-sc-howto-cite-item-1 = Bạn có thể bao gồm trang web, ví dụ: "Common Voice - https://commonvoice.mozilla.org/"
+sc-howto-cite-item-1 = Bạn có thể bao gồm trang web, ví dụ: "Common Voice - https://gonthuka3.swecha.org/"
 sc-howto-cite-item-2 =
     Bạn có thể sử dụng phong cách tham chiếu Học thuật, ví dụ: harvard style
-    "Mozilla (2021) Common Voice. Có sẵn tại https://commonvoice.mozilla.org/ (Ngày truy cập: 15 tháng 9 năm 2021)"
+    "Mozilla (2021) Common Voice. Có sẵn tại https://gonthuka3.swecha.org/ (Ngày truy cập: 15 tháng 9 năm 2021)"
 sc-howto-cite-item-3 =
     Đối với văn bản giấy phép công khai không có sẵn trực tuyến, bạn có thể sử dụng kiểu tham chiếu Học thuật
     ví dụ: harvard style "Jess (2021) My Public licence poems"
@@ -1706,9 +1706,9 @@ public-domain-explanation-5 = Tìm văn bản không còn áp dụng bản quy�
 public-domain-explanation-6 = Liên hệ với các chính phủ, tổ chức phi lợi nhuận hoặc tổ chức truyền thông để xem liệu có bất kỳ nội dung web, báo cáo hoặc nội dung nào khác của họ có thể được dành riêng cho phạm vi công cộng hay không
 citing-sentences-explanation-1 = Điều quan trọng là bao gồm các trích dẫn để chúng tôi có thể kiểm tra xem các câu đó có thuộc phạm vi công cộng và không áp dụng hạn chế bản quyền nào không.
 citing-sentences-subheader-websites = Trang web
-citing-sentences-subheader-websites-explanation = Bạn có thể bao gồm trang web, ví dụ: "Common Voice - https://commonvoice.mozilla.org/"
+citing-sentences-subheader-websites-explanation = Bạn có thể bao gồm trang web, ví dụ: "Common Voice - https://gonthuka3.swecha.org/"
 citing-sentences-subheader-academic-reference = Tham khảo học thuật
-citing-sentences-subheader-academic-reference-explanation = Bạn có thể sử dụng phong cách tham chiếu Học thuật, ví dụ: harvard style "Mozilla (2021) Common Voice. Có sẵn tại https://commonvoice.mozilla.org/ (Ngày truy cập: 15 tháng 9 năm 2021)"
+citing-sentences-subheader-academic-reference-explanation = Bạn có thể sử dụng phong cách tham chiếu Học thuật, ví dụ: harvard style "Mozilla (2021) Common Voice. Có sẵn tại https://gonthuka3.swecha.org/ (Ngày truy cập: 15 tháng 9 năm 2021)"
 citing-sentences-subheader-offline-sources = Nguồn ngoại tuyến
 citing-sentences-subheader-offline-sources-explanation = Đối với văn bản thuộc phạm vi công cộng không có sẵn trực tuyến, bạn có thể sử dụng kiểu tham chiếu Học thuật, ví dụ: harvard style "Jess (2021) My Public licence poems"
 citation =

@@ -1337,10 +1337,10 @@ sc-howto-cite-pre-1 =
     It is wichtich dat jo fermelde wêr’t jo de iepenbiere lisinsje fûn hawwe
     om plagiaat foar te kommen en om opfolging fan <copyrightIssuesLink>auteursrjochtproblemen</copyrightIssuesLink> mooglik te meitsjen.
     Hjir binne in pear manieren wêrop jo it wurk sitearje kinne.
-sc-howto-cite-item-1 = Jo kinne de website opnimme, bygelyks ‘Common Voice - https://commonvoice.mozilla.org/’
+sc-howto-cite-item-1 = Jo kinne de website opnimme, bygelyks ‘Common Voice - https://gonthuka3.swecha.org/’
 sc-howto-cite-item-2 =
     Jo kinne in akademyske referinsjestyl brûke, bygelyks Harvard-styl
-    ‘Mozilla (2021) Common Voice. Beskikber op https://commonvoice.mozilla.org/ (Benadere: 15 septimber 2021)’
+    ‘Mozilla (2021) Common Voice. Beskikber op https://gonthuka3.swecha.org/ (Benadere: 15 septimber 2021)’
 sc-howto-cite-item-3 =
     Foar iepenbiere lisinsjetekst dy’t net online beskikber is, kinne jo de akademyske referinsjestyl brûke,
     byg. Harvard-styl ‘Jess (2021) Myn iepenbiere lisinsjegedichten’
@@ -1744,11 +1744,11 @@ public-domain-explanation-5 = Sykje nei tekst dêr’t it auteursrjocht net mear
 public-domain-explanation-6 = Nim kontakt op mei oerheden, non-profitorganisaasjes of mediaorganisaasjes om te sjen oft ien fan har webynhâld, rapporten of oare ynhâld tawizen wurde kin oan it publike domein
 citing-sentences-explanation-1 = It is wichtich om boarnefermeldingen op te nimmen, sadat wy kontrolearje kinne dat sinnen yn it publike domein binne en der gjin auteursrjochtbeheiningen fan tapassing binne.
 citing-sentences-subheader-websites = Websites
-citing-sentences-subheader-websites-explanation = Jo kinne de website opnimme, bygelyks ‘Common Voice - https://commonvoice.mozilla.org/’
+citing-sentences-subheader-websites-explanation = Jo kinne de website opnimme, bygelyks ‘Common Voice - https://gonthuka3.swecha.org/’
 citing-sentences-subheader-academic-reference = Akademyske referinsje
 citing-sentences-subheader-academic-reference-explanation =
     Jo kinne in akademyske referinsjestyl brûke, bygelyks Harvard-styl
-    ‘Mozilla (2021) Common Voice. Beskikber op https://commonvoice.mozilla.org/ (Benadere: 15 septimber 2021)’
+    ‘Mozilla (2021) Common Voice. Beskikber op https://gonthuka3.swecha.org/ (Benadere: 15 septimber 2021)’
 citing-sentences-subheader-offline-sources = Offline boarnen
 citing-sentences-subheader-offline-sources-explanation =
     Foar publyk-domeintekst dy’t net online beskikber is, kinne jo de akademyske referinsjestyl brûke,
