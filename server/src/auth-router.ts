@@ -78,17 +78,17 @@ if (DOMAIN) {
       callbackURL:
         ((
           {
-            // stage: 'https://gonthuka3.swecha.org',
+            stage: 'https://gonthuka3.swecha.org',
             prod: 'https://gonthuka3.swecha.org',
-            // dev: 'https://dev.voice.mozit.cloud',
-            sandbox: 'https://sandbox.commonvoice.allizom.org',
+            dev: 'https://gonthuka3.swecha.org',
+            sandbox: 'https://gonthuka3.swecha.org',
           } as any
         )[ENVIRONMENT] || '') + CALLBACK_URL,
       scope: 'openid email',
     },
     (
-      accessToken: any,
-      refreshToken: any,
+      // accessToken: any,
+      // refreshToken: any,
       extraParams: any,
       profile: any,
       done: any

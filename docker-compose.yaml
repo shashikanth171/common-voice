@@ -40,8 +40,6 @@ services:
         '-backend',
         'filesystem',
       ]
-    volumes:
-      - storage-data:/storage
   bundler:
     build:
       context: ./bundler
@@ -85,14 +83,14 @@ volumes:
     driver: local # Define the driver and options under the volume name
     driver_opts:
       type: none
-      device: ./../voice.swecha.org-data/web-data
+      device: .
       o: bind
-  storage-data:
-    driver: local # Define the driver and options under the volume name
-    driver_opts:
-      type: none
-      device: ../voice.swecha.org-data/storage-data
-      o: bind
+#  storage-data:
+#    driver: local # Define the driver and options under the volume name
+#    driver_opts:
+#      type: none
+#      device: ../voice.swecha.org-data/storage-data
+#      o: bind
   bundler-data:
     driver: local # Define the driver and options under the volume name
     driver_opts:
